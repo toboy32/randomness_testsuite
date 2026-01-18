@@ -5,3 +5,17 @@ dist/command.txt
 dist/dist.zip
 dist/Final_Result.txt
 dist/Seed_Result.txt
+build/CI_Randomness/Analysis-00.toc
+build/CI_Randomness/base_library.zip
+build/CI_Randomness/CI_Randomness.pkg
+build/CI_Randomness/EXE-00.toc
+build/CI_Randomness/PKG-00.toc
+build/CI_Randomness/PYZ-00.pyz
+build/CI_Randomness/PYZ-00.toc
+build/CI_Randomness/warn-CI_Randomness.txt
+build/CI_Randomness/xref-CI_Randomness.html
+build/CI_Randomness/localpycs/pyimod01_archive.pyc
+build/CI_Randomness/localpycs/pyimod02_importers.pyc
+build/CI_Randomness/localpycs/pyimod03_ctypes.pyc
+build/CI_Randomness/localpycs/pyimod04_pywin32.pyc
+build/CI_Randomness/localpycs/struct.pyc
