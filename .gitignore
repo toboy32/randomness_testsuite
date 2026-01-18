@@ -1,2 +1,7 @@
 .idea/
 __pycache__/
+dist/CI_Randomness.exe
+dist/command.txt
+dist/dist.zip
+dist/Final_Result.txt
+dist/Seed_Result.txt
